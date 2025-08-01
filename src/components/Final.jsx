@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
-function Footer() {
+function Final() {
   return (
     <footer className="bg-gray-900 text-white mt-10">
       <div className="max-w-7xl mx-auto px-4 py-10 flex flex-col md:flex-row justify-between items-center">
@@ -32,4 +32,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default Final;

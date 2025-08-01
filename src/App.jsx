@@ -4,7 +4,7 @@ import Hero from './components/Hero'
 import News from './components/News'
 import FoodTable from './components/FoodTable'
 import Side_file from './components/Side_file'
-import Footer from './components/footer'
+import Final from './components/Final'
 function App() {
 
   return (
@@ -19,7 +19,7 @@ function App() {
         </main>
         <Side_file />
       </div>
-      <Footer />
+      <Final />
     </div>
   )
 }
